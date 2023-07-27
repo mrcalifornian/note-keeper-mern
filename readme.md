@@ -34,7 +34,7 @@ To run techNotes locally, follow these instructions:
 
 1. Clone the repository from GitHub.
 2. Navigate to the backend directory and install the required dependencies using `npm install`.
-3. Set the following environment variables to the backend .env file:
+3. Set the following environment variables to the backend `.env` file:
 
 - DATABASE_URI
 - ACCESS_TOKEN_SECRET
